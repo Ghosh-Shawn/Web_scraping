@@ -1,4 +1,4 @@
-# web_scraping
+# Web_scraping
 Web scraping projects
 
 The website `https://www.fifaindex.com/players/fifa20/` is scraped in this project,  to collect information about players. 
